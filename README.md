@@ -66,8 +66,8 @@ Here's the updated version with **"Eduexchange"** replacing **"BookMartX"** thro
 
 "# Eduexchange User Interface" 
 <img width="1906" height="848" alt="image" src="https://github.com/user-attachments/assets/0e04a987-c4f7-4bee-9f66-58022aff1062" />
-<img width="1832" height="827" alt="image" src="https://github.com/user-attachments/assets/d1b1ee43-3312-4f8d-824a-4acedff47133" />
 <img width="1894" height="1031" alt="image" src="https://github.com/user-attachments/assets/55534121-bcf1-4a51-8d27-17e2005e7f37" />
+<img width="1832" height="827" alt="image" src="https://github.com/user-attachments/assets/d1b1ee43-3312-4f8d-824a-4acedff47133" />
 <img width="1875" height="855" alt="image" src="https://github.com/user-attachments/assets/c07171cc-25e8-4c90-ab62-4c010a8ab576" />
 <img width="1826" height="1049" alt="image" src="https://github.com/user-attachments/assets/dca417d9-de02-4d53-8702-c97754d1d78e" />
 <img width="1822" height="832" alt="image" src="https://github.com/user-attachments/assets/d7a43ab3-e7cd-4545-9a15-ab8db77d3da8" />
